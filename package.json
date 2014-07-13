@@ -1,0 +1,10 @@
+{
+  "name": "express-ejs-example",
+  "version": "0.0.1",
+  "description": "A sample code project demonstrating cookies using express",
+  "dependencies": {
+  	"connect": "*",
+  	"serve-static": "*"
+   }
+  
+}
